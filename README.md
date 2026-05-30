@@ -161,7 +161,7 @@ print(me.motto())
 |:--------|:------|:-----------|
 | [🎓 SGS — Student Grievance System](https://github.com/nandha587) | JavaScript · HTML · CSS · PHP · MySQL | Sole developer; built normalized MySQL DB, role-based dashboards for students & admins, and complete grievance lifecycle with real-time status tracking · Aug–Oct 2024 |
 | [🕵️ Deepfake Detection System](https://github.com/nandha587) | Python · HTML · CSS · JavaScript | ML classification pipeline to detect AI-generated media; supervised learning from preprocessing to model inference with front-end result display · Oct 2025 |
-
+| 🤖 [AI Portfolio Assistant](https://nandha-ai-portfolio.vercel.app) | Next.js · React · Gemini AI · Vercel | Custom AI chatbot trained on personal portfolio data, featuring secure server-side API routing, responsive UI, and real-time Markdown rendering. |
 </div>
 
 ---
